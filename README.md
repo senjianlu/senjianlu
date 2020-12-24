@@ -9,5 +9,5 @@
 
 ⏩Most of the  notes will be recorded in [MOYU.BEST](https://moyu.best)  
 
-💸**搬砖民工**　⌨️**码农**
+💸**搬砖民工**　⌨️**码农** 🌸**对日工作**
 
