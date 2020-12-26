@@ -7,7 +7,7 @@
 
 ⏩Open steam API calls at [STAPI.CN](https://stapi.cn)  
 
-⏩Most of the  notes will be recorded in [MOYU.BEST](https://moyu.best)  
+⏩Most of the  notes will be recorded in [senjianlu.com](https://senjianlu.com)  
 
 💸**搬砖民工**　⌨️**码农**　🌸**对日工作**
 
