@@ -11,3 +11,4 @@
 
 💸**搬砖民工**　⌨️**码农**　🌸**对日工作**
 
+Reserve domains: ceshiku.cn qiandaiyun.com steam.cheap steam.cash sengmou.com
