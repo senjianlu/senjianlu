@@ -11,6 +11,6 @@
 
 ⏩ Open source projects and experimental deployments for testing on [ceshiku.cn](http://ceshiku.cn)
 
-🌸**对日工作**　⌨️**码农**　💸**搬砖民工**　🗊**域名收藏**
+🌸**对日工作**　⌨️**码农**　💸**搬砖民工**　💎**域名收藏**
 
 Reserve domains: ☁️[qiandaiyun.com](https://qiandaiyun.com) ⚫[steam.cheap](http://steam.cheap) 💵[steam.cash](http://steam.cash) 🧝[sengmou.com](https://sengmou.com) 💲[easydouble.net](https://easydouble.net) 📃[specification.me](http://specification.me) 🗃️[config.fit](https://config.fit)
