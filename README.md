@@ -9,7 +9,7 @@
 
 ⏩ Most of the  notes will be recorded on [森见鹿的个人博客](https://senjianlu.com)  
 
-⏩ Open source projects and experimental deployments for testing on [测试库](http://ceshiku.cn)
+⏩ Open source projects and experimental deployments for testing on [测试库](https://ceshiku.cn)
 
 🌸**对日工作**　⌨️**码农**　💸**搬砖民工**　💎**域名收藏**
 
