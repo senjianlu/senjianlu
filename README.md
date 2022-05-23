@@ -13,4 +13,4 @@
 
 🌸**对日工作**　⌨️**码农**　💸**搬砖民工**　💎**域名收藏**
 
-Reserve domains: ☁️[qiandaiyun.com](https://qiandaiyun.com) ⚫[steam.cheap](https://steam.cheap) 💵[steam.cash](https://steam.cash) 🧝[sengmou.com](https://sengmou.com) 📃[specification.me](https://specification.me) 🗃️[config.fit](https://config.fit) 👯‍♂️[cscheap.club](https://cscheap.club) 🔫[cscheap.com](https://cscheap.com) 💰[ubcq.com](https://ubcq.com)
+Reserve domains: ☁️[qiandaiyun.com](https://qiandaiyun.com) ⚫[steam.cheap](https://steam.cheap) 💵[steam.cash](https://steam.cash) 🧝[sengmou.com](https://sengmou.com) 📃[specification.me](https://specification.me) 🔫[cscheap.com](https://cscheap.com) 💰[ubcq.com](https://ubcq.com) 👔[jenskins.com](https://jenskins.com) 
