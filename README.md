@@ -1,16 +1,12 @@
-![github.png](https://raw.githubusercontent.com/senjianlu/imgs/master/github2.png)
-
 📼 *Hey, it's Rab. Rabbir. That's right. Don't adjust your...*  
 
-⏩ [CS.CHEAP](https://cs.cheap) is my main project.  
-> I will spend most of my spare time maintain this project. If you have any thoughts or comments on it, send me email at the contact area at the bottom of the website.  
+这里是兔子，科班程序员，5 年开发、6 年运维和 8 年 Steam 饰品交易。  
+你可以在这里找到我：  
+🎮 [Steam](https://steamcommunity.com/id/19970731)
+💬 [Telegram](https://t.me/rabbirbot00)
 
-⏩ Open Steam API calls at [STAPI.CN](https://stapi.cn)  
+*整理项目中，邮件和 Issue 积压太多也在努力处理......*
 
-⏩ Most of the  notes will be recorded on [森见鹿的个人博客](https://senjianlu.com)  
+<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=senjianlu" /> </div>
 
-⏩ Open source projects and experimental deployments for testing on [测试库](https://ceshiku.cn)
-
-🌸**对日工作**　⌨️**码农**　💸**搬砖民工**　💎**域名收藏**
-
-Reserve domains: ☁️[qiandaiyun.com](https://qiandaiyun.com) ⚫[steam.cheap](https://steam.cheap) 💵[steam.cash](https://steam.cash) 🧝[sengmou.com](https://sengmou.com) 📃[specification.me](https://specification.me) 🔫[cscheap.com](https://cscheap.com) 💰[ubcq.com](https://ubcq.com) 👔[jenskins.com](https://jenskins.com) 
+[![Rabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=senjianlu&theme=github)](https://github.com/senjianlu)
