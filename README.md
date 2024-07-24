@@ -7,6 +7,7 @@
 > BTW 可以在这里找到我：  
 > 🎮 [Steam](https://steamcommunity.com/id/19970731)
 > 💬 [Telegram](https://t.me/rabbirbot00)
+> 🐱 [GitHub](https://github.com/senjianlu)
 
 🌟 **技术栈如下：**
 - Java, Spring, Spring Boot
