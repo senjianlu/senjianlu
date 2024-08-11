@@ -20,3 +20,6 @@
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=senjianlu" /> </div>
 
 [![Rabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=senjianlu&theme=github)](https://github.com/senjianlu)
+
+🌟 **证书：**  
+[![N1](https://image.senjianlu.com/certificate/N1_badge.png)](https://image.senjianlu.com/certificate/N1.jpg)
