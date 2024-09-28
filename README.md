@@ -23,4 +23,4 @@
 
 🌟 **证书：**  
 [![N1](https://image.senjianlu.com/certificate/N1_badge.png)](https://image.senjianlu.com/certificate/N1.jpg)
-[![094636](https://image.senjianlu.com/blog/2024-09-28/094636.png)](https://www.credly.com/earner/earned/badge/42a0fb25-0848-414b-b968-0a48691817b7)
+[![PMP](https://image.senjianlu.com/blog/2024-09-28/094636.png)](https://www.credly.com/earner/earned/badge/42a0fb25-0848-414b-b968-0a48691817b7)
