@@ -24,4 +24,4 @@
 🌟 **证书：**  
 [![N1](https://image.senjianlu.com/certificate/N1_badge.png)](https://image.senjianlu.com/certificate/N1.jpg)
 [![PMP](https://image.senjianlu.com/blog/2024-09-28/094636.png)](https://www.credly.com/badges/42a0fb25-0848-414b-b968-0a48691817b7/public_url)
-[![SAA-C03](![194310](https://image.senjianlu.com/blog/2024-12-21/194310.png))](https://www.credly.com/badges/16cf2e27-cde2-43c9-abe7-ee5283ce06f8/public_url)  
+[![SAA-C03](https://image.senjianlu.com/blog/2024-12-21/194310.png)](https://www.credly.com/badges/16cf2e27-cde2-43c9-abe7-ee5283ce06f8/public_url)  
