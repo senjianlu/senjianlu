@@ -1,21 +1,54 @@
-🐰 **这里是兔子，本科软件工程。**  
-🧑🏻‍💼 **目前从事对日外包的项目管理工作。**  
-🌟 **拥有 3 年项目管理、8 年开发和 9 年运维经验；第一笔饰品交易于 [2016/01/30](https://tieba.baidu.com/p/4330185885?pid=83251792505#83251792505)**。  
-📧 *整理项目中，邮件和 Issue 积压太多也在努力处理......*
+Hi there! I'm **Kyo** 👋, a software engineer born in 🇨🇳 1997.  
+I graduated with a Bachelor's degree in Software Engineering and have been passionate about building scalable systems and innovative solutions throughout my career.
 
-> **空闲之余我会进行 Steam 和第三方市场相关应用的开发，当然仅限空闲时间，因此你也会看到非常多的烂尾作品 🤦**  
-> 不过我会尽量留足文档，来记录我的思考和尝试，希望能帮到你。  
-> BTW 可以在这里找到我：  
-> 🎮 [Steam](https://steamcommunity.com/id/19970731)
-> 💬 [Telegram](https://t.me/rabbirbot00)
-> 🐱 [GitHub](https://github.com/senjianlu)
+## 💼 Work Experience
 
-🌟 **最近的活跃状态：**
-<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=senjianlu" /> </div>
+### Project Manager at 🇯🇵 SG システム（外部連携チーム）
+**July 2023 - Present**
 
-[![Rabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=senjianlu&theme=github)](https://github.com/senjianlu)
+Currently serving as a Project Manager in the External Division, leading major version upgrades and quality assurance initiatives:
+- Managing and advancing unit testing based on djunit
+- Overseeing regression testing using Selenium and Puppeteer
+- Coordinating performance testing with JMeter
+- Facilitating large-scale release management
 
-🌟 **证书：**  
-[![N1](https://image.senjianlu.com/certificate/N1_badge.png)](https://image.senjianlu.com/certificate/N1.jpg)
-[![PMP](https://image.senjianlu.com/blog/2024-09-28/094636.png)](https://www.credly.com/badges/42a0fb25-0848-414b-b968-0a48691817b7/public_url)
-[![SAA-C03](https://image.senjianlu.com/blog/2024-12-21/194310.png)](https://www.credly.com/badges/16cf2e27-cde2-43c9-abe7-ee5283ce06f8/public_url)  
+### Full-Stack Developer at 🇨🇳 Cross-Border Logistics SaaS Startup
+**April 2022 - June 2023**
+
+Joined an entrepreneurial team to develop a comprehensive cross-border logistics SaaS platform:
+- Backend development using Spring Boot
+- Frontend development with React, TypeScript, and Ant Design
+- DingTalk mini-program development
+- Fully responsible for container consolidation and reporting modules
+- Helped scale the system to handle over RMB 100 million in annual transactions
+
+### Software Developer at 🇯🇵 SG システム（外部連携チーム）
+**July 2019 - April 2022**
+
+Worked as a developer for Sagawa Express cargo system development:
+- Backend development with Spring framework
+- Frontend development with vanilla JavaScript
+- Contributed to mission-critical logistics system features
+
+## 🚀 Personal Projects
+
+### CS.CHEAP <a href="https://cs.cheap" target="_blank" rel="noopener noreferrer" class="inline-block align-middle -translate-y-0.5 opacity-75"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link-icon lucide-external-link"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></a>
+A large-scale distributed web scraping system built with Python 3 and Scrapy. The system aggregates data from third-party marketplaces to compare prices of Steam items, helping users find the best deals.
+
+### Steam.CASH <a href="https://steam.cash" target="_blank" rel="noopener noreferrer" class="inline-block align-middle -translate-y-0.5 opacity-75"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link-icon lucide-external-link"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></a>
+A comprehensive navigation directory (yellow pages) for Steam-related websites, built with Astro and n8n AI workflows. The platform serves as a one-stop resource for Steam community tools and services.
+
+### Easycrawl.dev <a href="https://easycrawl.dev" target="_blank" rel="noopener noreferrer" class="inline-block align-middle -translate-y-0.5 opacity-75"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link-icon lucide-external-link"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></a>
+A serverless AI-powered web scraping proxy running on Cloudflare Workers and D1 infrastructure. The key feature is its ability to bypass most modern bot detection mechanisms, including Cloudflare Turnstile and Google reCAPTCHA.
+
+## 📜 Certifications
+
+- **JLPT N1**
+- **AWS SAA**
+- **PMP**
+
+## 🤝 A Bit More
+
+I've been actively trading Steam items particularly CS:GO skins <a href="https://tieba.baidu.com/p/4330185885?pid=83251792505#83251792505" target="_blank">since 2016</a>. Since 2017, my annual trading volume has consistently exceeded RMB 1 million. This hands-on experience has given me deep insights into the Steam marketplace ecosystem and trading mechanics.
+
+If you need help with Steam/CS:GO related development, feel free to reach out for a quote — I'm always open to taking on after-hours projects in this space!
