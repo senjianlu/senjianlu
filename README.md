@@ -32,13 +32,13 @@ Worked as a developer for Sagawa Express cargo system development:
 
 ## 🚀 Personal Projects
 
-### CS.CHEAP <a href="https://cs.cheap" target="_blank" rel="noopener noreferrer" class="inline-block align-middle -translate-y-0.5 opacity-75"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link-icon lucide-external-link"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></a>
+### [CS.CHEAP](https://cs.cheap)
 A large-scale distributed web scraping system built with Python 3 and Scrapy. The system aggregates data from third-party marketplaces to compare prices of Steam items, helping users find the best deals.
 
-### Steam.CASH <a href="https://steam.cash" target="_blank" rel="noopener noreferrer" class="inline-block align-middle -translate-y-0.5 opacity-75"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link-icon lucide-external-link"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></a>
+### [Steam.CASH](https://steam.cash)
 A comprehensive navigation directory (yellow pages) for Steam-related websites, built with Astro and n8n AI workflows. The platform serves as a one-stop resource for Steam community tools and services.
 
-### Easycrawl.dev <a href="https://easycrawl.dev" target="_blank" rel="noopener noreferrer" class="inline-block align-middle -translate-y-0.5 opacity-75"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link-icon lucide-external-link"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></a>
+### [Easycrawl.dev](https://easycrawl.dev)
 A serverless AI-powered web scraping proxy running on Cloudflare Workers and D1 infrastructure. The key feature is its ability to bypass most modern bot detection mechanisms, including Cloudflare Turnstile and Google reCAPTCHA.
 
 ## 📜 Certifications
